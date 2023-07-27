@@ -85,18 +85,18 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*comined classes into one set of rules they all shared*/
+/*combined into one class on the html level*/
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*comined classes into one set of rules they all shared*/
+/*combined into one class on the html level*/
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-
+/* combined into one class on the html level*/
 .benefit img {
     display: block;
     margin: 10px auto;
@@ -150,3 +150,4 @@ p {
 
 .footer h2 {
     font-size: 20px;
+}
